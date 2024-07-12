@@ -1,7 +1,7 @@
 
 # Python Azure Function App
 
-This is a Python Azure Function App that provides serverless computing capabilities. The app includes a function written in Python and uses Azure Functions and OpenAI packages.
+This is a Python Azure Function App that provides serverless computing capabilities. The app includes functions to send prompts to GPT models written in Python and uses Azure Functions and OpenAI packages.
 
 ## Getting Started
 
